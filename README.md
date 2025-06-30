@@ -1,20 +1,25 @@
-<<<<<<< HEAD
-# e_ticaret_app
-=======
-# e_ticaret_app
+# E-Ticaret Uygulaması
 
-A new Flutter project.
+Bu, Flutter ile geliştirilmiş bir e-ticaret uygulamasıdır. Giyim, kozmetik ve kırtasiye kategorilerini içerir.
 
-## Getting Started
+## Ekran Görüntüleri
 
-This project is a starting point for a Flutter application.
+### Başlangıç Sayfası
+![Başlangıç Sayfası (Dikey)](screenshots/ekran1.png)
+![Başlangıç Sayfası (Yatay)](screenshots/ekran1_landscape.png)
 
-A few resources to get you started if this is your first Flutter project:
+### Kategoriler Sayfası
+![Kategoriler Sayfası](screenshots/ekran2.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Giyim Kategorisinin Ürünleri
+![Giyim Ürünleri](screenshots/ekran3.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 056bcdd (İlk commit: Flutter e-ticaret uygulaması, assets ve ekran görüntüleri)
+### Giyim Kategorisinin Ürünü
+![Giyim Ürünü (Dikey)](screenshots/ekran4.png)
+![Giyim Ürünü (Yatay)](screenshots/ekran4_landscape.png)
+
+### Kozmetik
+![Kozmetik](screenshots/ekran5.png)
+
+### Kırtasiye
+![Kırtasiye](screenshots/ekran6.png)
