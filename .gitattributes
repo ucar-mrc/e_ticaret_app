@@ -1,0 +1,10 @@
+# Dart dosyalarını önceliklendir
+*.dart linguist-detectable=true
+# C++ dosyalarını yok say
+*.cc linguist-vendored
+*.h linguist-vendored
+*.cmake linguist-vendored
+# Otomatik oluşturulan dosyaları yok say
+linux/flutter/* linguist-vendored
+macos/Flutter/* linguist-vendored
+windows/flutter/* linguist-vendored
